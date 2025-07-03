@@ -61,6 +61,7 @@ The prediction settings (model parameters, training options, etc.) can be modifi
 
 #### Structure
 
+```
 ROSA_pred/  
   ├── configs/ # dir containing config files  
   ├── rdb1/ # dir containing roundabout specific files like dataset and shapefiles from openDD  
@@ -71,7 +72,7 @@ ROSA_pred/
   ├── main.py # main file for starting the preprocessing-training-testing pipeline
   ├── trainer.py # file for training the prediction model
   ├── tester.py # file for testing the prediction model
-  
+```  
 
 ### 2. `ROSA_sim/` – Speed Advisory and SUMO Simulation
 
@@ -92,13 +93,14 @@ The simulation settings (scenarios, vehicle type, etc.) can be modified in confi
 
 #### Structure
 
+```
 ROSA_sim/  
   ├── env/ # dir containing simulation environment files (evaluation, speed advisory)
   ├── sumo/ # dir containing sumo configuration files
   ├── utils/ # dir containing different utility functions  
   ├── config.ini # file for simulation settings
   ├── run.py # main file for starting the simulation
-  
+```
 
 ## Citation
 
