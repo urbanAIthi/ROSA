@@ -34,6 +34,12 @@ This repository requires that you already have installed the SUMO traffic simula
 This project uses SUMO version 1.22.0. Please be aware that simulation results may vary when using different SUMO versions due to changes or updates in the simulator.
 
 
+### Downloading dataset
+
+The openDD trajectory dataset (rdb1) is used for this work: [https://l3pilot.eu/data/opendd.html].
+To use the model with the rdb1 scenario, download the dataset from this link and ensure that trajectories_rdb1_v3.sqlite is located in the ROSA_pred/rdb1 directory.
+
+
 ## Project Structure
 
 This repository is organized into two main components, reflecting the architecture of the ROSA system as described in the paper.
@@ -137,8 +143,6 @@ The Transformer implementation is based on the following repository [https://git
   year         = {2025},
 }
 ```
-
-The openDD trajectory dataset (rdb1) is used for this work: [https://l3pilot.eu/data/opendd.html].
 
 
 ## License
