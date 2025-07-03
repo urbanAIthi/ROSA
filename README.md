@@ -1,8 +1,7 @@
 # ROSA - The Roundabout Optimized Speed Advisory
 
 This repository contains the official implementation for the paper:
-**“ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic”**,  
-to be presented at **IEEE ITSC 2025**.
+**“ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic”**, to be presented at **IEEE ITSC 2025**.
 
 ROSA combines **multi-agent trajectory prediction** with **coordinated speed guidance** for vehicles approaching and entering roundabouts in **multimodal and mixed traffic environments**. It supports both automated and human-driven vehicles and provides proactive, real-time speed advisories based on predicted conflicts with other vehicles and Vulnerable Road Users (VRUs).
 
@@ -119,8 +118,7 @@ If you use this code in your research, please cite our paper:
 }
 ```
 
-The Transformer implementation is based on the following repository: [https://github.com/urbanAIthi/FloatingCarObserver]
-and the associated papers:
+The Transformer implementation is based on the following repository [https://github.com/urbanAIthi/FloatingCarObserver] and the associated papers:
 ```bibtex
 @INPROCEEDINGS{10422398,
    author={Gerner, Jeremias and Rößle, Dominik and Cremers, Daniel and Bogenberger, Klaus and Schön, Torsten and Schmidtner, Stefanie},
@@ -140,7 +138,7 @@ and the associated papers:
 }
 ```
 
-The openDD trajectory dataset is used for this work: [https://l3pilot.eu/data/opendd.html].
+The openDD trajectory dataset (rdb1) is used for this work: [https://l3pilot.eu/data/opendd.html].
 
 
 ## License
