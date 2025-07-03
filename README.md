@@ -29,6 +29,11 @@ conda env create -f environment.yaml --name rosa
 conda activate rosa
 ```
 
+### Installing SUMO
+
+This repository requires that you already have installed the SUMO traffic simulator. For more information on how to install SUMO, please refer [to https://sumo.dlr.de/docs/Installing/index.html].
+This project uses SUMO version 1.22.0. Please be aware that simulation results may vary when using different SUMO versions due to changes or updates in the simulator.
+
 
 ## Project Structure
 
@@ -113,7 +118,7 @@ If you use this code in your research, please cite our paper:
 ```
 
 The Transformer implementation is based on the following repository: [https://github.com/urbanAIthi/FloatingCarObserver]
-and the associated papers
+and the associated papers:
 ```bibtex
 @INPROCEEDINGS{10422398,
    author={Gerner, Jeremias and Rößle, Dominik and Cremers, Daniel and Bogenberger, Klaus and Schön, Torsten and Schmidtner, Stefanie},
@@ -133,7 +138,7 @@ and the associated papers
 }
 ```
 
-The openDD trajectory dataset is used for this work: [https://l3pilot.eu/data/opendd.html]
+The openDD trajectory dataset is used for this work: [https://l3pilot.eu/data/opendd.html].
 
 
 ## License
