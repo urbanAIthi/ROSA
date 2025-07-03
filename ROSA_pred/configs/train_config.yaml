@@ -1,0 +1,71 @@
+wandb_mode: online
+wandb_key: #TODO ************enter your wandb key here************
+wandb_project: #TODO ************enter your wandb project here************
+
+visualization_mode: false
+dataset_path: rosa_datasets
+roundabout_scenario: rdb1
+train_split:
+    - - - 0.2
+        - ':'
+val_split:
+    - - - ':'
+        - 0.1
+test_split:
+    - - - 0.1
+        - 0.2
+max_agents: 100
+radius: 100
+
+sequence_len: 8
+prediction_len: 1
+max_prediction: 5
+min_timesteps_seen: 3
+
+num_epochs: 100
+batch_size: 64
+scheduler:
+    type: ReduceLROnPlateau
+    init_lr: 0.0001
+    step_size: 5000
+    gamma: 0.9
+
+weights:
+    class_weight: 10.0
+    position_weight: 1000.0
+    speed_weight: 1.0
+    acceleration_weight: 1.0
+    angle_weight: 1.0
+
+load_complete_model: null
+validation_frequency: 1
+save_frequency: 25
+
+default_scheduler_config:
+    type: default
+    init_lr: 0.00005
+    step_size: 5000
+    gamma: 0.95
+
+cosine_scheduler_config:
+    type: cosine
+    startup_steps: 5000
+    min_lr: 1e-6
+
+plateau_scheduler_config:
+    factor: 0.3
+    patience: 4
+    min_lr: 1e-6
+
+network_configs:
+    MaskedTransformer: 
+        full_attention: false
+        agent_only_attention: false
+        embed_dim: 128
+        num_heads: 8
+        num_layers: 6
+        dropout: 0.5
+        use_pos_embed: true
+        use_agent_embed: false
+
+

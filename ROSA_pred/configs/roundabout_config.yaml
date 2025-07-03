@@ -1,0 +1,18 @@
+roundabouts:
+    rdb1:
+        original_base: trajectories_rdb1_v3.sqlite
+        dataset_name:
+            - rdb1_exit
+        shapefile_path: rdb1/shapefile/map_rdb1_UTM32N_borderlines.shp
+        centerpoint:
+            - 619303.9529706321
+            - 5809150.34720178
+
+    rdb6:
+        original_base: trajectories_rdb6_v3.sqlite
+        dataset_name:
+            - rdb6_exit
+        shapefile_path: rdb6/shapefile/map_rdb6_UTM32N_borderlines.shp
+        centerpoint:
+            - 674606.5727583766
+            - 5407008.5181658305

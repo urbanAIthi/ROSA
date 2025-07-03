@@ -1,0 +1,77 @@
+wandb_mode: online
+dataset_path: tfco_datasets #- Kopie
+dataset_name:
+    - Full_1s_exit_rdb1 #Full_1s_exit #Dataset_30hz_test #Anna #5382_monocon_05
+train_split:
+    - - - 0.2
+        - ':'
+      #- - 0.8
+        #- ':'
+val_split:
+    - - - ':'
+        - 0.1
+test_split:
+    - - - 0.1
+        - 0.2
+max_vehicles: 100
+radius: 100
+centerpoint:
+        - 619303.9529706321 #rdb1 619303.9529706321 #rdb6 674606.5727583766
+        - 5809150.34720178 #rdb1 5809150.34720178 #rdb6 5407008.5181658305
+sequence_len: 8
+prediction_len: 1 #min: 1
+max_prediction: 5
+min_timesteps_seen: 3 #min:1
+num_epochs: 100
+batch_size: 64 #128
+scheduler:
+    type: ReduceLROnPlateau
+    init_lr: 0.0001
+    step_size: 5000
+    gamma: 0.9
+
+weights:
+    class_weight: 10.0
+    distance_weight: 1000.0
+    speed_weight: 1.0
+    acceleration_weight: 1.0
+    angle_weight: 1.0
+    class_id_weight: 0.0
+
+load_complete_model: null
+validation_frequency: 1
+save_frequency: 25
+
+default_scheduler_config:
+    type: default
+    init_lr: 0.00005 #0.0001
+    step_size: 5000
+    gamma: 0.95 #0.9
+
+cosine_scheduler_config:
+    type: cosine
+    startup_steps: 5000
+    min_lr: 1e-6
+
+masked_transformer_config:
+    full_attention: false
+    vehicle_only_attention: false
+    embed_dim: 128
+    num_heads: 8 #4
+    num_layers: 6 #2
+    dropout: 0.5
+    use_pos_embed: true
+    use_type_embed: false
+
+network_configs:
+    MaskedTransformer: 
+        full_attention: false
+        vehicle_only_attention: false #Wenn Modell interaktionen lernen soll, dann false
+        embed_dim: 128 #64
+        num_heads: 8 #4
+        num_layers: 6 #4 #2
+        dropout: 0.5
+        use_pos_embed: true
+        use_type_embed: false
+
+

@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<roadData>
+  <trafficLanes>
+    <trafficLane>
+      <identifier>1380775</identifier>
+      <geometry>LINESTRING (619313.47221531 5809124.595728049, 619313.6915316931 5809125.898080227, 619313.7951994117 5809127.265889307, 619313.7598680169 5809128.721343238, 619313.6094401806 5809130.219512485, 619313.5012970234 5809131.855236843, 619313.4387508235 5809133.492067533, 619313.5859713098 5809135.884899337, 619313.7462766704 5809136.798984006, 619313.9054778743 5809137.758551357, 619314.1169005114 5809138.446328386, 619314.4584889318 5809139.410322957, 619314.7844555713 5809140.078125581)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307788</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307788</identifier>
+      <geometry>LINESTRING (619314.7844555713 5809140.078125581, 619315.8234095168 5809141.445880637, 619316.3962938618 5809142.278960847, 619317.1861206712 5809143.572403478)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381468</successor>
+        <successor>1381469</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307797</identifier>
+      <geometry>LINESTRING (619361.8630147798 5809146.864398412, 619363.4099249063 5809143.283951581)</geometry>
+      <type>NORMAL</type>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307802</identifier>
+      <geometry>LINESTRING (619365.6198679082 5809144.338833105, 619363.9812106062 5809147.939805223)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381452</successor>
+        <successor>1381453</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381468</identifier>
+      <geometry>LINESTRING (619317.1861206712 5809143.572403478, 619317.8980032317 5809144.317838681, 619318.4324670668 5809144.854173695, 619319.0803706956 5809145.41601741, 619319.891727504 5809145.822545718, 619320.5918526541 5809146.112599859, 619321.7685355553 5809146.505242577, 619336.4257785982 5809150.706655407)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307790</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381469</identifier>
+      <geometry>LINESTRING (619317.1861206712 5809143.572403478, 619317.6010719598 5809144.333385138, 619317.9014790456 5809145.114340826, 619318.1134528628 5809145.7793756435, 619318.3688150714 5809146.536482844, 619318.5736117465 5809147.497155419, 619318.59934769 5809148.499414854, 619318.5678653601 5809149.613210074, 619318.4518284333 5809150.634357708)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381484</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307790</identifier>
+      <geometry>LINESTRING (619336.4257785982 5809150.706655407, 619350.0143939023 5809155.70133167)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381488</successor>
+        <successor>1381489</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381452</identifier>
+      <geometry>LINESTRING (619363.9812106062 5809147.939805223, 619362.3502875387 5809151.222396086, 619361.4086849273 5809153.361232384, 619360.9624166558 5809154.829454325, 619360.7535207389 5809155.916609624, 619360.6146767667 5809156.937201634, 619360.7049207801 5809157.917847336, 619360.8896717239 5809158.764259501, 619361.305719558 5809159.479760171, 619361.8791464726 5809160.2901017, 619362.5025880943 5809160.9196199505, 619363.2422303002 5809161.460941278, 619365.3749333414 5809162.87801911)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307815</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381453</identifier>
+      <geometry>LINESTRING (619363.9812106062 5809147.939805223, 619361.8038339234 5809152.1193163255, 619359.4424172649 5809156.362619517, 619358.4890637357 5809158.046073795, 619357.6390538627 5809159.2314330535, 619356.5610610963 5809160.411255783, 619355.3534581519 5809161.29211954, 619354.1079903933 5809161.853497771, 619353.2366840489 5809162.037131869, 619352.3002962342 5809162.082657385, 619351.2532302177 5809161.988967124, 619350.3924163014 5809161.740516757, 619346.8406902996 5809160.516535547)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307808</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381484</identifier>
+      <geometry>LINESTRING (619318.4518284333 5809150.634357708, 619318.1351861438 5809152.40154225, 619317.8768384566 5809153.646782069, 619317.6273240651 5809154.528160063, 619317.2193254317 5809155.360181041, 619316.5256013068 5809156.685869896, 619315.8852031546 5809157.694286742, 619315.3187208753 5809158.476950531)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307813</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381488</identifier>
+      <geometry>LINESTRING (619350.0143939023 5809155.70133167, 619351.1921768591 5809156.048498162, 619352.3504747199 5809156.258663257, 619353.1467601352 5809156.346263973, 619353.994164639 5809156.207558658, 619355.1173583523 5809155.98453168, 619356.3372680871 5809155.536306064, 619357.1712628385 5809155.010444758, 619358.0074667889 5809154.393618141, 619358.6417993286 5809153.635360638, 619359.1409986765 5809152.805557124, 619360.1504432256 5809150.69112251, 619361.8630147798 5809146.864398412)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307797</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381489</identifier>
+      <geometry>LINESTRING (619350.0143939023 5809155.70133167, 619365.3749333414 5809162.87801911)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307815</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381494</identifier>
+      <geometry>LINESTRING (619335.3974989788 5809156.415887872, 619333.4684740079 5809156.004975991, 619331.5361359294 5809155.73051289, 619329.3057627403 5809155.517078919, 619327.1660306619 5809155.328601308, 619325.1614322595 5809155.211669598, 619323.3386684669 5809155.121907917, 619321.53594255 5809155.146407101, 619320.3020712166 5809155.230226332, 619319.3390197465 5809155.434394146, 619318.3020525563 5809155.864315158, 619317.3757648419 5809156.433451641, 619316.584059115 5809157.096874277, 619315.9285915742 5809157.786358966, 619315.3187208753 5809158.476950531)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307813</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307778</identifier>
+      <geometry>LINESTRING (619277.9647643192 5809116.634382774, 619286.893972107 5809122.812866609)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1380779</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307775</identifier>
+      <geometry>LINESTRING (619311.8138911542 5809120.550611123, 619313.0260178975 5809123.242358226, 619313.47221531 5809124.595728049)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1380775</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307781</identifier>
+      <geometry>LINESTRING (619282.5487591068 5809127.963787111, 619272.7181011195 5809121.331099124)</geometry>
+      <type>NORMAL</type>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1380779</identifier>
+      <geometry>LINESTRING (619286.893972107 5809122.812866609, 619288.5534640736 5809123.990886351, 619289.8470756141 5809125.205536123, 619292.7847215389 5809128.234967423, 619294.0522206706 5809129.585512769, 619295.5410801016 5809131.214489038, 619296.7001051919 5809132.334853082, 619297.9981283806 5809133.367571574, 619299.2327235554 5809134.193957173, 619300.201464903 5809134.69532236, 619301.0155849338 5809134.988141134, 619302.6927335748 5809135.438437225, 619303.9183292565 5809135.695734549, 619305.3752212841 5809135.822117569)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381460</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381478</identifier>
+      <geometry>LINESTRING (619291.7307439143 5809145.343767629, 619291.9990204393 5809143.68917951, 619292.0416891797 5809142.871042589, 619291.952535041 5809141.844912896, 619291.8133684138 5809140.999607576, 619291.4956780549 5809139.990685564, 619291.1551891248 5809138.981210036, 619290.7290258115 5809137.742106801, 619290.0531833941 5809136.4514338365, 619289.3506785862 5809135.319397345, 619288.5163502041 5809133.979367839, 619287.5441267828 5809132.681501129, 619286.6130843466 5809131.566672508, 619285.5230041634 5809130.425229227, 619284.5652989451 5809129.469037425, 619283.6954757472 5809128.651507611, 619282.5487591068 5809127.963787111)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307781</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381479</identifier>
+      <geometry>LINESTRING (619291.7307439143 5809145.343767629, 619292.1981345546 5809143.944314874, 619292.5388384312 5809143.065147212, 619293.2075514847 5809141.829863769, 619293.8479468273 5809140.821440828, 619294.6506911723 5809139.70318414, 619295.1688154497 5809139.03311542, 619295.8715351303 5809138.27650782)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381464</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381464</identifier>
+      <geometry>LINESTRING (619295.8715351303 5809138.27650782, 619297.1236252892 5809137.4422151195, 619298.3690920608 5809136.880819705, 619299.5895527211 5809136.409836866, 619301.3549681786 5809136.0431010835, 619302.9574828048 5809135.808940779, 619305.3752212841 5809135.822117569)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381460</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381460</identifier>
+      <geometry>LINESTRING (619305.3752212841 5809135.822117569, 619306.650829781 5809135.898590922, 619307.9464765632 5809136.089325167, 619309.1259229522 5809136.368258377, 619310.4621980346 5809136.764772958, 619311.6800644419 5809137.340452133, 619312.8946182674 5809138.052580079, 619313.5658739044 5809138.592235807, 619314.0536378827 5809139.172946879, 619314.7844555713 5809140.078125581)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307788</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307793</identifier>
+      <geometry>LINESTRING (619292.8015258396 5809156.678870718, 619292.2168801301 5809155.390415645, 619291.7940303923 5809154.0148682855, 619291.4388551724 5809151.730773067, 619291.2973126215 5809150.043485684, 619291.3348452388 5809148.497072641, 619291.5124799205 5809146.817530843, 619291.7307439143 5809145.343767629)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381478</successor>
+        <successor>1381479</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381522</identifier>
+      <geometry>LINESTRING (619298.072256665 5809162.267932816, 619297.0161912311 5809161.605168023, 619295.9623334036 5809160.851438112, 619294.9823899171 5809159.871955188, 619294.2938566547 5809159.104337714, 619293.6981724036 5809158.270709632, 619293.1280460852 5809157.323928175, 619292.8015258396 5809156.678870718)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307793</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381532</identifier>
+      <geometry>LINESTRING (619287.7087323978 5809175.714711077, 619291.9662925594 5809165.714973301, 619292.7433065077 5809163.776928635, 619293.0400685113 5809162.828433982, 619293.24122165 5809162.059656268, 619293.4517582213 5809160.904276101, 619293.5238490107 5809159.813799557, 619293.4157610305 5809158.627930708, 619293.0975203112 5809157.641753461, 619292.8015258396 5809156.678870718)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307793</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381505</identifier>
+      <geometry>LINESTRING (619362.9460247109 5809167.681361229, 619346.8406902996 5809160.516535547)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307808</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381506</identifier>
+      <geometry>LINESTRING (619362.9460247109 5809167.681361229, 619361.6027853071 5809166.973277606, 619360.414357321 5809166.125247128, 619359.7936774903 5809165.382023301, 619359.3147576863 5809164.4374496285, 619358.8864047154 5809163.289311351, 619358.5819838654 5809161.734597434, 619358.3915544602 5809160.182651272, 619358.3840638519 5809158.61239248, 619358.5133632784 5809157.0454550665, 619358.8005944267 5809155.550616718, 619359.3796308187 5809153.311957089, 619360.137188775 5809151.236915273, 619361.8630147798 5809146.864398412)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307797</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307808</identifier>
+      <geometry>LINESTRING (619346.8406902996 5809160.516535547, 619343.4562816224 5809158.978053126, 619341.5355409798 5809158.226018287, 619339.5219498603 5809157.539993879, 619335.3974989788 5809156.415887872)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381494</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307813</identifier>
+      <geometry>LINESTRING (619315.3187208753 5809158.476950531, 619314.1473369222 5809159.745533856, 619312.982026157 5809160.7639626255, 619311.8689370453 5809161.510602557, 619310.7113557543 5809162.21065314, 619309.4647896788 5809162.817524975, 619308.1770435355 5809163.2413597815, 619306.8926097545 5809163.528747059)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381526</successor>
+        <successor>1381527</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307815</identifier>
+      <geometry>LINESTRING (619365.3749333414 5809162.87801911, 619370.0459064029 5809164.670168829, 619378.3729606977 5809167.999963861)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307818</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307835</identifier>
+      <geometry>LINESTRING (619376.4520265812 5809173.049117324, 619368.0647404188 5809169.757577532, 619362.9460247109 5809167.681361229)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381505</successor>
+        <successor>1381506</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307818</identifier>
+      <geometry>LINESTRING (619378.3729606977 5809167.999963861, 619388.6270470689 5809171.898358421, 619404.0941036147 5809177.4904662995, 619411.6423338531 5809180.050834137)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307853</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307868</identifier>
+      <geometry>LINESTRING (619416.0088807198 5809187.292233298, 619402.2840880826 5809182.550256069, 619386.7522494632 5809176.93450371, 619376.4520265812 5809173.049117324)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307835</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307853</identifier>
+      <geometry>LINESTRING (619411.6423338531 5809180.050834137, 619417.7695123468 5809182.10223776, 619426.7415058869 5809185.028976938)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381557</successor>
+        <successor>1381558</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307870</identifier>
+      <geometry>LINESTRING (619425.1143722663 5809190.071776241, 619416.0088807198 5809187.292233298)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307868</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381526</identifier>
+      <geometry>LINESTRING (619306.8926097545 5809163.528747059, 619305.9273524834 5809163.82388228, 619305.2362270228 5809164.102917155, 619304.2465156046 5809164.465723168, 619303.4603330712 5809164.901733751, 619302.696396964 5809165.361039108, 619301.9541553067 5809165.866380497, 619301.2102578145 5809166.439945811, 619299.8770834479 5809167.79562174, 619298.6284791124 5809169.426406431, 619296.6411144795 5809172.359030029, 619292.5908219574 5809178.518250165)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307863</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381527</identifier>
+      <geometry>LINESTRING (619306.8926097545 5809163.528747059, 619306.2053483501 5809163.648592702, 619304.6044985797 5809163.814526385, 619302.8267825155 5809163.748620449, 619301.145227654 5809163.480256949, 619299.6048784083 5809163.033283814, 619298.072256665 5809162.267932816)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381522</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307861</identifier>
+      <geometry>LINESTRING (619281.8648246867 5809189.043610521, 619287.7087323978 5809175.714711077)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381532</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307863</identifier>
+      <geometry>LINESTRING (619292.5908219574 5809178.518250165, 619291.1515575612 5809180.485724663, 619289.5361484197 5809183.131561863, 619285.993673858 5809189.985735363)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381543</successor>
+        <successor>1381544</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1382090</identifier>
+      <geometry>LINESTRING (619272.4735381765 5809209.431304856, 619281.8648246867 5809189.043610521)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307861</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1382091</identifier>
+      <geometry>LINESTRING (619272.4735381765 5809209.431304856, 619274.0950004535 5809206.535324679, 619274.7142413927 5809205.4581363425, 619275.4447137729 5809204.497419722, 619276.2158157529 5809203.742479597, 619277.123154795 5809203.013600226, 619278.4419642085 5809202.249197647, 619279.7135220753 5809201.551912094, 619280.6120315896 5809201.18689108, 619281.6896148694 5809200.962743314, 619282.5598073611 5809200.824580622, 619283.6568774435 5809200.737433352, 619284.5237585314 5809200.735717777, 619285.4790725304 5809200.849921251, 619286.4294191073 5809201.168795081, 619287.3336173552 5809201.509303563, 619290.8809108948 5809202.9151612045)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307900</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381543</identifier>
+      <geometry>LINESTRING (619285.993673858 5809189.985735363, 619285.4134018379 5809191.33692654, 619285.138337137 5809192.331451708, 619284.8316436349 5809193.689282002, 619284.7584511313 5809194.825233426, 619284.8426380376 5809196.056022358, 619285.1375275404 5809197.064379266, 619285.4980517249 5809198.188101651, 619285.9530798623 5809199.177590231, 619286.4342175301 5809200.031185183, 619286.9659187283 5809200.681216491, 619287.4119466016 5809201.101623209, 619287.9508227399 5809201.45601984, 619288.6025855837 5809201.858665384, 619290.8809108948 5809202.9151612045)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307900</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381544</identifier>
+      <geometry>LINESTRING (619285.993673858 5809189.985735363, 619275.6799621937 5809210.783368418)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>308840</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381550</identifier>
+      <geometry>LINESTRING (619289.3511818085 5809205.790610605, 619287.9275952892 5809205.232705582, 619287.0678901386 5809204.938786076, 619285.8662131128 5809204.636567008, 619285.0237866166 5809204.570612283, 619284.0868560848 5809204.638891167, 619283.1949699204 5809204.731017937, 619282.3025318707 5809204.845885978, 619281.2938956501 5809205.048952162, 619280.1657499326 5809205.476663203, 619279.1249335713 5809206.065775326, 619278.3315853004 5809206.797420259, 619277.6522277679 5809207.531831572, 619277.0390571922 5809208.358867064, 619276.5860253938 5809209.1670342805, 619275.6799621937 5809210.783368418)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>308840</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>1381551</identifier>
+      <geometry>LINESTRING (619289.3511818085 5809205.790610605, 619286.760859042 5809204.430735147, 619284.3963084401 5809203.167358268, 619283.2957578554 5809202.45801277, 619282.3314438288 5809201.774728332, 619281.4388353856 5809200.956657099, 619280.840394824 5809200.236743186, 619280.3792948395 5809199.497407829, 619280.0527759797 5809198.852356678, 619279.886947856 5809198.16569617, 619279.7466773309 5809197.365883136, 619279.7020145825 5809196.386353904, 619279.8230098301 5809195.160544752, 619279.9601804886 5809194.208182522, 619280.2107901373 5809193.281327695, 619280.4803347178 5809192.514214175, 619281.159524653 5809190.846859499, 619281.8648246867 5809189.043610521)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>307861</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307900</identifier>
+      <geometry>LINESTRING (619290.8809108948 5809202.9151612045, 619303.265703576 5809208.631342285)</geometry>
+      <type>NORMAL</type>
+    </trafficLane>
+    <trafficLane>
+      <identifier>307911</identifier>
+      <geometry>LINESTRING (619301.7208986952 5809211.187856167, 619289.3511818085 5809205.790610605)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1381550</successor>
+        <successor>1381551</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>308827</identifier>
+      <geometry>LINESTRING (619267.5748770236 5809220.289294105, 619272.4735381765 5809209.431304856)</geometry>
+      <type>NORMAL</type>
+      <successors>
+        <successor>1382090</successor>
+        <successor>1382091</successor>
+      </successors>
+    </trafficLane>
+    <trafficLane>
+      <identifier>308840</identifier>
+      <geometry>LINESTRING (619275.6799621937 5809210.783368418, 619270.8414191795 5809221.703532444)</geometry>
+      <type>NORMAL</type>
+    </trafficLane>
+  </trafficLanes>
+  <borderLines>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619288.3744322358 5809121.028405962, 619290.0583788424 5809122.138755458, 619291.7768826678 5809123.705041724)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619291.7768826678 5809123.705041724, 619296.1844538114 5809128.203708884)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619296.1844538114 5809128.203708884, 619297.0993200731 5809129.045089241, 619298.0174979032 5809129.750020885, 619299.0947127074 5809130.481567648, 619299.8599246498 5809130.909728436, 619300.5350465957 5809131.290192906, 619301.4175625438 5809131.584672059, 619302.7816059816 5809131.777065193, 619304.2162527385 5809131.88015309, 619305.264981735 5809131.905609278)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619285.0978154362 5809125.386085854, 619285.5131554864 5809125.191372036, 619286.127058817 5809125.274535768, 619286.9845704396 5809125.659425206, 619287.5679481813 5809126.060416466, 619288.2158577319 5809126.622258021)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619288.2158577319 5809126.622258021, 619292.4616322594 5809131.208011748)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619292.4616322594 5809131.208011748, 619293.5294642242 5809132.326161662, 619294.3792465288 5809133.02943214, 619294.8219683755 5809133.586293713, 619294.7647802067 5809134.062757245)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619292.6737311911 5809135.627598126, 619292.2672229774 5809135.458448007, 619291.5185696841 5809134.348045724, 619290.8589020446 5809133.330822414, 619290.6630990847 5809132.939237917)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619290.6630990847 5809132.939237917, 619286.6057834944 5809128.107757724)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619286.6057834944 5809128.107757724, 619285.9872955187 5809127.273572231, 619285.3471127038 5809126.3933504345, 619285.0856731948 5809125.886398342, 619285.0978154362 5809125.386085854)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619293.2769778102 5809135.209897777, 619294.7647802067 5809134.062757245)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619294.7647802067 5809134.062757245, 619298.168757156 5809132.916616266, 619300.900540646 5809132.209258296, 619302.3256368547 5809131.765997485)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619287.8421534668 5809144.839803754, 619289.0904222956 5809141.343106638, 619290.4690286658 5809139.055575756, 619292.1434639716 5809136.797978962, 619292.6737311911 5809135.627598126)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619292.6737311911 5809135.627598126, 619292.9739746003 5809135.475601524, 619293.2769778102 5809135.209897777)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619295.1856122639 5809145.859962232, 619295.8815398116 5809144.443302068, 619296.758199062 5809143.099292645, 619297.5559759308 5809142.185709549, 619298.4649852519 5809141.388600262)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619296.4595804932 5809155.402373145, 619295.8021247225 5809154.294187975, 619295.3231917267 5809153.349618926, 619295.0082628124 5809152.226992372, 619294.7389304803 5809151.105472295, 619294.6514330254 5809150.011120136, 619294.6089803095 5809148.940615813, 619294.7077335804 5809147.691500347, 619294.8927127263 5809146.649270403, 619295.1856122639 5809145.859962232)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619289.4665134579 5809157.803927871, 619288.7912256232 5809156.490518888, 619288.057477207 5809154.766105553, 619287.5711985735 5809153.184226326, 619287.4136487137 5809152.156438932, 619287.3428767557 5809151.312795469, 619287.3221169899 5809150.2883275915, 619287.3258113539 5809149.196188716, 619287.4023163253 5809147.923778553, 619287.5994364347 5809146.381238075, 619287.8421534668 5809144.839803754)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619299.718588361 5809158.348572659, 619299.1330075271 5809158.038547715, 619298.2376336298 5809157.334173054, 619297.8366472292 5809156.937609813, 619296.9690390874 5809156.02911657, 619296.4595804932 5809155.402373145)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619296.4207924024 5809165.459015602, 619295.1345365437 5809164.881683224)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619295.1345365437 5809164.881683224, 619293.642927813 5809163.366424297, 619291.4455059498 5809160.855582156, 619289.4665134579 5809157.803927871)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619278.729638096 5809115.1966301305, 619288.3744322358 5809121.028405962)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619276.8290439709 5809118.313439468, 619281.7062304034 5809121.32167135, 619285.6069393703 5809124.14692382)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619283.6410900615 5809126.192662535, 619273.5975170861 5809119.873371856)</geometry>
+      <markingType>LONG_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619280.9076100936 5809129.789856766, 619278.4049558558 5809127.635675019, 619276.4329066843 5809126.177016243, 619271.8142315985 5809122.856497313)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619287.8421534668 5809144.839803754, 619287.9925731453 5809143.341638478, 619288.0585915496 5809142.501313415, 619288.0773573521 5809141.728105778, 619287.9620923465 5809140.837871074, 619287.8245807948 5809139.924341493, 619287.552486388 5809138.916526185, 619287.2482106222 5809138.294761503, 619286.4699657039 5809136.5237527)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619286.4699657039 5809136.5237527, 619285.1061356904 5809134.44271879, 619283.5566053919 5809132.493706725, 619281.933711313 5809130.747707635, 619280.9076100936 5809129.789856766)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619280.1682060951 5809188.456325374, 619285.8992223265 5809175.079173429)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619270.8019312407 5809208.753614018, 619280.1682060951 5809188.456325374)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619283.6691931813 5809188.950873895, 619281.0495252826 5809194.439410741)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619281.0495252826 5809194.439410741, 619273.984454266 5809210.150605561)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619273.984454266 5809210.150605561, 619277.5723239793 5809202.364619897, 619281.0495252826 5809194.439410741)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619281.0495252826 5809194.439410741, 619283.2867608245 5809189.669738956)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619265.9727325401 5809219.595651096, 619268.2322985774 5809214.061312694, 619270.8019312407 5809208.753614018)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619285.8992223265 5809175.079173429, 619287.15427512 5809172.242547522)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619287.15427512 5809172.242547522, 619289.8188369 5809165.844890299)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619289.8188369 5809165.844890299, 619290.1667142757 5809164.670089591, 619290.3277897807 5809163.672792388, 619290.4142304987 5809161.991042416, 619290.3039340406 5809160.896139446, 619290.1013403393 5809159.844505561, 619289.8081051724 5809158.767916822, 619289.4665134579 5809157.803927871)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619290.0037970361 5809177.021918576, 619289.7824379127 5809176.743490391, 619289.722874308 5809176.37797052, 619289.7545036696 5809176.014663943, 619289.8833974602 5809175.403416937, 619290.1724310137 5809174.773301912, 619290.7004862381 5809173.693895055)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619290.7004862381 5809173.693895055, 619293.3251429179 5809168.000667937)</geometry>
+      <markingType>NO_MARKING</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619293.3251429179 5809168.000667937, 619294.1122602101 5809166.586227386, 619294.7853864238 5809165.169019791, 619295.1345365437 5809164.881683224)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619297.497447443 5809166.213298316, 619296.4306778943 5809167.871252269, 619295.6713261342 5809169.08157396)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619295.6713261342 5809169.08157396, 619294.517396086 5809171.511070359, 619292.710764924 5809174.516344745)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619292.710764924 5809174.516344745, 619291.9536228924 5809175.635700324, 619291.3181997857 5809176.439445034, 619290.8967922829 5809176.884309847, 619290.3908152741 5809177.054066443, 619290.0037970361 5809177.021918576)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619307.7711987708 5809166.803995619, 619306.5985493233 5809167.185114937, 619305.7016876434 5809167.48191017, 619303.5360158851 5809168.362283453, 619301.7490837529 5809169.615925423, 619300.3013666929 5809170.9915746935)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619300.3013666929 5809170.9915746935, 619296.6746842999 5809176.614964421)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619296.6746842999 5809176.614964421, 619294.5516381008 5809179.498781822)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619289.145742826 5809176.659773491, 619283.6691931813 5809188.950873895)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619283.2867608245 5809189.669738956, 619289.145742826 5809176.659773491)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619294.5516381008 5809179.498781822, 619289.3569814626 5809188.633825514, 619288.2486551625 5809191.064420132)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619288.2486551625 5809191.064420132, 619288.0598151551 5809192.265829037, 619288.0327701768 5809193.380146251, 619288.0274194629 5809194.540498854, 619288.2272522126 5809195.705831082)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619288.2272522126 5809195.705831082, 619288.8324841268 5809197.085793236, 619289.5756084588 5809198.423592791, 619290.5923100719 5809199.768032107, 619291.9059388221 5809201.096923579)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619291.9059388221 5809201.096923579, 619292.8452457493 5809201.870621194, 619293.7444757817 5809202.415800951, 619295.4773007813 5809203.390795125, 619297.5281947813 5809204.419019102, 619303.9366191386 5809207.305112521)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619289.9531476018 5809204.485459424, 619302.5703342156 5809210.025241653)</geometry>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619302.5703342156 5809210.025241653, 619289.9531476018 5809204.485459424)</geometry>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619288.4907099556 5809207.408050338, 619287.1533488532 5809207.057028921, 619284.9452440494 5809206.866910879, 619283.0864551999 5809207.3223974705, 619281.6736943639 5809208.198290306)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619281.6736943639 5809208.198290306, 619280.4466302922 5809208.942163119, 619279.3258304294 5809210.007177766, 619278.528619464 5809210.898009646, 619277.7781087295 5809211.744465877)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619301.2023947723 5809212.813592844, 619294.5682031958 5809209.8310080925, 619288.4907099603 5809207.408050341)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619269.1770215152 5809220.982937119, 619273.984454266 5809210.150605561)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619277.7781087295 5809211.744465877, 619276.4500905884 5809213.828402582, 619275.3689890846 5809216.077612043, 619272.6143826866 5809222.427515241)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619272.6250100473 5809213.220767376, 619269.1770215152 5809220.982937119)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619314.6852350581 5809119.732871734, 619315.5318683839 5809121.505551642, 619315.9602353501 5809122.653695311, 619316.3312479217 5809123.345348645, 619316.4981780736 5809123.986537901)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619308.8636641627 5809121.798780219, 619309.350491567 5809123.357930244, 619309.7155976868 5809125.232693483)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619309.728180793 5809130.352844388, 619309.5415419029 5809131.463301709, 619309.3709120135 5809131.914256799, 619308.9761618311 5809132.200487568)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619309.7155976868 5809125.232693483, 619309.8212527123 5809128.398185567, 619309.728180793 5809130.352844388)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619316.4981780736 5809123.986537901, 619316.7237301865 5809125.971688217, 619316.7306824677 5809127.564698271, 619316.7503322861 5809128.634654143, 619316.6703434569 5809129.110564536)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619316.6703434569 5809129.110564536, 619316.3649058188 5809131.355880892, 619316.2461087164 5809132.490739587, 619316.3102513476 5809133.60728417)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619316.3102513476 5809133.60728417, 619316.3109671774 5809134.517495219, 619316.5646741323 5809135.342828318, 619317.0202545044 5809136.3095909385, 619317.615937721 5809137.143225596)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619305.264981735 5809131.905609278, 619306.0156747394 5809131.992095811, 619306.7674717637 5809132.033099558, 619307.6088065461 5809132.144541403, 619308.4734917679 5809132.233795352, 619308.9761618311 5809132.200487568)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619308.9761618311 5809132.200487568, 619313.3716239069 5809134.377876832, 619316.0866227129 5809136.24141661, 619317.615937721 5809137.143225596)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619317.615937721 5809137.143225596, 619319.0259024684 5809139.202633448, 619320.5320284355 5809141.059582096)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619298.4649852519 5809141.388600262, 619299.2110940318 5809140.724065858, 619300.090129585 5809140.222041596, 619300.9208085292 5809139.832617732, 619302.2313584307 5809139.409332191, 619303.7182238998 5809139.24062966, 619305.4992609171 5809139.17008741)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619305.4992609171 5809139.17008741, 619307.4755473717 5809139.513871954, 619309.4196506006 5809140.24370786, 619310.8121749753 5809141.142193503, 619312.3315524698 5809142.453345214)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619312.3315524698 5809142.453345214, 619313.0868244822 5809143.290852316, 619313.7464862532 5809144.308076782, 619314.2904995676 5809145.390758098)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619320.5320284355 5809141.059582096, 619321.355142495 5809141.921492554, 619322.382337744 5809142.83386711, 619323.8187996355 5809143.801687232, 619325.4659676699 5809144.547075105, 619326.3907639991 5809144.979113426, 619327.634737712 5809145.418900911)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619327.634737712 5809145.418900911, 619334.0068535795 5809146.9844051525)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619334.0068535795 5809146.9844051525, 619337.1331533138 5809147.879483265)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619320.5320284355 5809141.059582096, 619321.4972272109 5809143.58604257, 619322.391821399 5809146.201807081, 619323.0985065596 5809149.040556268)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619323.0985065596 5809149.040556268, 619322.9635349961 5809149.901960901, 619322.9397948107 5809150.8798396075)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619314.2904995676 5809145.390758098, 619314.8701723414 5809146.883891017, 619315.013915209 5809148.48021497, 619315.0554232912 5809150.52915194)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619323.0985065596 5809149.040556268, 619323.5333320606 5809148.982848325, 619324.6226853038 5809149.214088004, 619326.8892722588 5809149.815230278)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619326.8892722588 5809149.815230278, 619333.012809084 5809151.283678118)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619333.012809084 5809151.283678118, 619334.4803471202 5809151.910933021, 619335.1999560483 5809152.3379906295, 619335.6671264148 5809152.827183422)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619335.6671264148 5809152.827183422, 619335.4547631401 5809153.117839172, 619335.1528629106 5809153.3380567, 619334.1469743717 5809153.427407894, 619332.7579309195 5809153.32541851)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619332.7579309195 5809153.32541851, 619326.4849077968 5809152.376701732)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619326.4849077968 5809152.376701732, 619322.977824563 5809152.132274858)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619315.0554232912 5809150.52915194, 619314.9421473877 5809151.436592643, 619314.6893210874 5809152.454419293, 619314.464813774 5809153.245385688, 619314.1307312449 5809153.85165396, 619313.6771364675 5809154.682568446, 619313.4375598433 5809155.154602284, 619313.1062378089 5809155.647163686, 619312.5441721365 5809156.247897412)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619322.9397948107 5809150.8798396075, 619322.9460302672 5809151.56263393, 619322.977824563 5809152.132274858)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619322.977824563 5809152.132274858, 619321.2430392167 5809155.935712365, 619319.7943713733 5809158.28979076, 619318.4852552179 5809160.533482589)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619348.1042229976 5809158.271743561, 619342.4966191675 5809156.2241822705, 619335.9726594221 5809154.33641573)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619312.5441721365 5809156.247897412, 619311.330504028 5809157.378927111, 619310.5860520849 5809157.975233415, 619309.7759655353 5809158.456172855, 619308.8068428345 5809158.910497141, 619307.9088754602 5809159.252775182, 619307.0370186847 5809159.459158831, 619305.9605290624 5809159.637820679)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619335.1475894054 5809158.2529540835, 619333.4904887544 5809157.916908776, 619332.8554481559 5809157.764961975, 619332.0608191648 5809157.60914058)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619332.0608191648 5809157.60914058, 619330.4938072133 5809157.320793025, 619328.9001318865 5809157.191081789, 619327.258651361 5809157.1512294, 619325.7539608624 5809157.114698532)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619325.7539608624 5809157.114698532, 619324.63408163 5809157.201284092, 619323.6949328646 5809157.360521791, 619322.3132301236 5809157.895846174, 619321.1812051762 5809158.482741743, 619319.6055226737 5809159.491206767, 619318.4852552179 5809160.533482589)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619305.9605290624 5809159.637820679, 619305.2054241622 5809159.73326505, 619304.3624380617 5809159.690048022, 619303.5200039523 5809159.624089815, 619302.4973912179 5809159.462739375, 619301.591530072 5809159.190449433, 619300.5527427961 5809158.755650111, 619299.718588361 5809158.348572659)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619360.494727022 5809146.165132468, 619362.0611220018 5809142.721687774)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619362.9896795426 5809147.4378748005, 619364.6283362719 5809143.83690201)</geometry>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619364.6283362719 5809143.83690201, 619362.9896795426 5809147.4378748005)</geometry>
+      <markingType>NO_MARKING</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619366.9734122556 5809144.963330276, 619365.3336495549 5809148.60978427)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619350.962617809 5809153.289598166, 619352.4540559616 5809153.8719292, 619353.2508940066 5809153.936788608, 619353.9609565397 5809153.8175028255, 619354.9045251285 5809153.476339912, 619355.6440131193 5809153.084711736, 619356.3651208914 5809152.510599143, 619356.9488863469 5809151.955906111, 619357.7488824443 5809150.951368577)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619357.7488824443 5809150.951368577, 619360.494727022 5809146.165132468)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619337.1331533138 5809147.879483265, 619344.120977971 5809150.3928955775, 619350.962617809 5809153.289598166)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619365.3336495549 5809148.60978427, 619364.2274859599 5809150.949417777, 619362.8089285316 5809153.941351953, 619362.7035305845 5809155.463361276, 619362.873921945 5809156.901048768, 619363.1726642959 5809157.750229544, 619363.6131670694 5809158.3980602445, 619364.0553266215 5809158.977666913, 619364.9284452329 5809159.658758693, 619366.2130380825 5809160.304334166)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619335.9726594221 5809154.33641573, 619342.4515746686 5809156.200333788, 619348.9188887295 5809158.541827802)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619366.2130380942 5809160.304334166, 619366.91592016 5809160.480687631, 619367.7383168977 5809160.432396414, 619374.4328349906 5809158.1147198705, 619381.0014201257 5809160.982074858)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619366.2130380825 5809160.304334166, 619371.0573393536 5809162.094505369, 619379.4829755134 5809165.268591476)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619363.9398593063 5809165.252393616, 619351.5380931051 5809159.652147395)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619351.5380931051 5809159.652147395, 619348.1042229976 5809158.271743561)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619345.7145008107 5809162.741907, 619344.6845530196 5809161.943237484, 619341.5253670658 5809160.523999263, 619338.2244198761 5809159.306113335, 619335.1475894054 5809158.2529540835)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619318.4852552179 5809160.533482589, 619317.4784277827 5809161.601267017, 619316.6128071997 5809162.490441652, 619315.5892549604 5809163.307518212, 619314.1992739829 5809164.183963656, 619312.9026948989 5809164.971657882, 619311.355886991 5809165.730523295, 619309.7451010024 5809166.305798467, 619307.7711987708 5809166.803995619)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619306.5985493233 5809167.185114937, 619303.2483042688 5809167.058282767, 619300.1076597187 5809166.754502966, 619297.497447443 5809166.213298316)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619297.497447443 5809166.213298316, 619296.4207924024 5809165.459015602)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619348.9188887295 5809158.541827802, 619351.5380931051 5809159.652147395)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619351.5380931051 5809159.652147395, 619363.9398593063 5809165.252393616)</geometry>
+      <markingType>SHORT_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619363.9398593063 5809165.252393616, 619369.0106788054 5809167.328515469, 619377.368665753 5809170.639741734)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619377.368665753 5809170.639741734, 619369.0106788054 5809167.328515469, 619363.9398593063 5809165.252393616)</geometry>
+      <markingType>SINGLE_SOLID_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619381.0014201257 5809160.982074858, 619381.511443658 5809161.144609459, 619391.2337999268 5809164.8960095495, 619406.539946476 5809170.653259107, 619407.933275524 5809171.165010306, 619412.6301398857 5809177.405648276)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619379.4829755204 5809165.268591476, 619405.0201537934 5809174.901748508, 619412.6301398857 5809177.405648276)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619360.3431245752 5809174.042943004, 619341.427789351 5809165.482158058, 619344.5019306986 5809163.82744465, 619345.6323007864 5809163.308778954, 619345.7062177795 5809163.083026636, 619345.7145008107 5809162.741907)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619361.9521901227 5809170.110328828, 619345.7145008107 5809162.741907)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>CONCRETE</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619374.018281146 5809179.446189157, 619365.5744993674 5809176.152232791, 619360.3431245752 5809174.042943004)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619375.5353873809 5809175.458492908, 619367.1188020273 5809172.186639578, 619361.9521901227 5809170.110328828)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619377.368665753 5809170.639741734, 619387.6624057065 5809174.489611032, 619403.1680534078 5809180.079184081, 619410.7211858478 5809182.685362571)</geometry>
+      <markingType>LONG_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619416.8696162681 5809184.754954341, 619410.7211858387 5809182.685362571, 619403.1680534172 5809180.0791840805, 619387.6624057065 5809174.489611032, 619377.368665753 5809170.639741734)</geometry>
+      <markingType>LONG_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619412.6301398857 5809177.405648276, 619418.6694083894 5809179.449521164, 619427.6011236353 5809182.364856529)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619413.9951028447 5809193.228454021, 619413.4483985336 5809193.264219526, 619407.6608062511 5809191.438197583, 619399.9930659096 5809188.954670546, 619395.6846310947 5809187.532132943, 619384.3596950471 5809183.361464695, 619380.1261834779 5809181.780291749, 619374.0182811368 5809179.446189157)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619415.204907652 5809189.732957119, 619401.4529921688 5809184.893440518, 619385.8420932177 5809179.379396378, 619375.5353873901 5809175.458492905)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619410.7211858478 5809182.685362571, 619416.8696162589 5809184.754954341, 619425.8818881275 5809187.693097329)</geometry>
+      <markingType>LONG_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619425.8818881366 5809187.693097329, 619416.8696162658 5809184.754954341)</geometry>
+      <markingType>LONG_DASHED_LINE</markingType>
+      <colorType>WHITE</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619424.3866735725 5809192.454931968, 619421.3051649384 5809192.156635603, 619413.9951028447 5809193.228454021)</geometry>
+      <markingType>CURB</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+    <borderLine>
+      <geometry>LINESTRING (619424.3866735725 5809192.454931968, 619415.204907652 5809189.732957119)</geometry>
+      <markingType>CURB_TRAVERSABLE</markingType>
+      <colorType>GRAY</colorType>
+      <materialType>UNKNOWN</materialType>
+    </borderLine>
+  </borderLines>
+  <areas>
+    <area>
+      <identifier>2036283</identifier>
+      <subArea>
+        <type>ALWAYS</type>
+        <geometry>POLYGON ((619288.3744322221 5809121.028405963, 619287.0214913166 5809122.504516046, 619285.6308417041 5809124.101994156, 619283.8229259999 5809126.21983039, 619280.8153124229 5809129.833126545, 619283.5749482985 5809132.516778602, 619285.0470229111 5809134.3683662545, 619286.3131362827 5809136.406172394, 619287.4612926996 5809138.914312921, 619287.8391002133 5809140.266015964, 619287.9098722932 5809141.109661316, 619288.002507972 5809142.932293345, 619287.6570066425 5809144.949084158, 619287.3976058443 5809148.002121754, 619287.2575853885 5809150.127478099, 619287.327422638 5809151.949553473, 619287.546192498 5809153.274638407, 619288.0113285669 5809154.787740252, 619288.6149102035 5809156.235937619, 619289.3302753938 5809157.777866584, 619289.8193983989 5809158.809379025, 619290.3113738574 5809160.969993564, 619290.3323004796 5809163.585034474, 619289.813932876 5809165.856665021, 619285.899222338 5809175.079173426, 619289.1063735385 5809176.727454808, 619290.7651386481 5809177.609262837, 619294.6172729523 5809179.614148023, 619296.6649234748 5809176.628222932, 619300.2827786094 5809171.020396643, 619301.7921644924 5809169.585701656, 619303.6205880686 5809168.327903779, 619305.863252978 5809167.42844393, 619307.8156913008 5809166.850585018, 619309.6967442267 5809166.418398077, 619311.3142529863 5809165.7453924455, 619312.9341919537 5809164.952522877, 619314.244318549 5809164.207811842, 619315.660637008 5809163.250535682, 619316.6169083378 5809162.486228935, 619319.581491471 5809159.513564955, 619321.2767900844 5809158.433185984, 619323.6615732973 5809157.37344656, 619325.7884278646 5809157.1155353235, 619330.4172234208 5809157.314559773, 619335.1475894008 5809158.252954082, 619335.902607882 5809154.402979151, 619336.3214931368 5809152.183183261, 619337.2260033301 5809147.813473323, 619327.6825429754 5809145.329042365, 619326.3929724608 5809144.888147863, 619325.0839159334 5809144.31025182, 619323.8660527508 5809143.734570009, 619322.3634039734 5809142.674123831, 619320.5213788128 5809141.046451865, 619319.0089342897 5809139.177849567, 619317.660430437 5809137.189815362, 619317.0593757826 5809136.364339594, 619316.3554599449 5809134.564084993, 619316.3634133824 5809132.357058149, 619316.848150975 5809128.363970363, 619316.7242087921 5809126.0813570935, 619316.6127225916 5809123.966563661, 619309.717897845 5809125.232303472, 619309.8175330117 5809128.4763053665, 619309.7067056879 5809130.480616232, 619309.3943976758 5809131.852186927, 619308.7806935252 5809132.213439631, 619305.7676518043 5809131.872301157, 619302.7821386306 5809131.777103472, 619300.6143334913 5809131.316649471, 619297.9630556527 5809129.708222832, 619296.2973116029 5809128.307501458, 619291.6222607715 5809123.496495001, 619290.0935596828 5809122.170820124, 619288.3744322221 5809121.028405963))</geometry>
+      </subArea>
+      <subArea>
+        <type>NEVER</type>
+        <geometry>POLYGON ((619301.3207100974 5809159.070102233, 619302.4312042432 5809159.370113926, 619303.2703263538 5809159.572519874, 619304.1806034544 5809159.662879537, 619305.0224855206 5809159.751579178, 619306.4854426242 5809159.627807651, 619307.8616227261 5809159.319892324, 619309.4295742384 5809158.629802173, 619310.6088504286 5809157.97578684, 619312.1010667654 5809156.646726257, 619312.9867255612 5809155.871809909, 619313.3897549314 5809155.244460783, 619314.3441973039 5809153.515514688, 619314.9410432772 5809151.4820753625, 619315.0613320601 5809149.346047419, 619315.0378177341 5809148.435285666, 619314.9163211836 5809146.862256521, 619314.2916036737 5809145.345275327, 619313.1535635467 5809143.36073681, 619312.2648133778 5809142.38346072, 619310.7910326754 5809141.073415858, 619309.2166729437 5809140.147761467, 619307.4521969318 5809139.536059957, 619305.4775665127 5809139.124051179, 619303.7182238998 5809139.24062966, 619302.0695614852 5809139.496424165, 619300.9202565339 5809139.85535914, 619299.2121980091 5809140.678583042, 619298.44218684 5809141.388046893, 619297.6021247199 5809142.164074875, 619296.7804454798 5809143.122587402, 619295.8576374823 5809144.488231496, 619295.2301051079 5809145.906551707, 619294.8699143463 5809146.648717053, 619294.7055257139 5809147.782465854, 619294.5845260307 5809149.008286572, 619294.7172360481 5809151.059436221, 619294.9637700309 5809152.180402957, 619295.3437822115 5809153.441137675, 619295.7771184936 5809154.384599999, 619296.4801709406 5809155.493891859, 619296.9679351309 5809156.074599244, 619297.8121929397 5809157.005280447, 619298.6842166451 5809157.731843031, 619299.7402827204 5809158.394608685, 619301.3207100974 5809159.070102233))</geometry>
+      </subArea>
+      <subArea>
+        <type>EMERGENCY</type>
+        <geometry>POLYGON ((619289.8394567823 5809175.334086533, 619289.1063735385 5809176.727454808, 619290.7651386481 5809177.609262837, 619291.6223043704 5809176.128260997, 619292.6412662376 5809174.56016722, 619295.7413768927 5809169.015010193, 619297.497999422 5809166.190557027, 619296.3095607524 5809165.342542343, 619295.1345365437 5809164.881683224, 619294.7625881289 5809165.168466439, 619292.6270113408 5809169.50828666, 619289.8394567823 5809175.334086533))</geometry>
+      </subArea>
+      <subArea>
+        <type>NEVER</type>
+        <geometry>POLYGON ((619289.8394567823 5809175.334086533, 619289.8284178796 5809175.788911473, 619289.7245301253 5809176.3097467935, 619289.8057881151 5809176.721302475, 619289.9137079488 5809176.974222776, 619290.1872869052 5809176.980862739, 619290.3913672164 5809177.031325205, 619290.8745459851 5809176.861015268, 619291.6223043704 5809176.128260997, 619292.6412662376 5809174.56016722, 619295.7413768927 5809169.015010193, 619297.497999422 5809166.190557027, 619296.3095607524 5809165.342542343, 619295.1345365437 5809164.881683224, 619294.7625881289 5809165.168466439, 619292.6270113408 5809169.50828666, 619289.8394567823 5809175.334086533))</geometry>
+      </subArea>
+      <subArea>
+        <type>EMERGENCY</type>
+        <geometry>POLYGON ((619336.3214931368 5809152.183183261, 619333.0578536806 5809151.307526533, 619326.8431233843 5809149.836864649, 619323.4649369237 5809148.981187871, 619323.0762602723 5809149.017261418, 619322.9179382339 5809149.900853939, 619322.9375864255 5809150.970805061, 619322.9772724715 5809152.155016213, 619332.757378785 5809153.34815986, 619335.902607882 5809154.402979151, 619336.3214931368 5809152.183183261))</geometry>
+      </subArea>
+      <subArea>
+        <type>NEVER</type>
+        <geometry>POLYGON ((619333.7351789546 5809151.597028754, 619333.0578536806 5809151.307526533, 619326.8431233843 5809149.836864649, 619323.4649369237 5809148.981187871, 619323.0762602723 5809149.017261418, 619322.9179382339 5809149.900853939, 619322.9375864255 5809150.970805061, 619322.9772724715 5809152.155016213, 619332.757378785 5809153.34815986, 619333.7138055635 5809153.41689078, 619334.4889497365 5809153.435710905, 619335.1067140334 5809153.35969098, 619335.431964785 5809153.117285631, 619335.6910290765 5809152.782254257, 619335.2005082034 5809152.31524927, 619334.6160330144 5809151.959736946, 619334.2089753323 5809151.81332517, 619333.7351789546 5809151.597028754))</geometry>
+      </subArea>
+      <subArea>
+        <type>EMERGENCY</type>
+        <geometry>POLYGON ((619285.6308417041 5809124.101994156, 619283.8229259999 5809126.21983039, 619286.4517134352 5809127.87646989, 619290.6636510323 5809132.916496474, 619290.8127531927 5809133.352457195, 619292.2900214188 5809135.459001346, 619292.741022588 5809135.674741011, 619294.719183319 5809134.061650548, 619294.8219683755 5809133.586293713, 619294.4020450021 5809133.029985481, 619293.5522626666 5809132.3267150065, 619287.6580382442 5809126.108112676, 619285.6308417041 5809124.101994156))</geometry>
+      </subArea>
+      <subArea>
+        <type>NEVER</type>
+        <geometry>POLYGON ((619287.0073689152 5809125.659978522, 619286.4657245569 5809125.419284275, 619286.127610757 5809125.251794287, 619285.5821028547 5809125.170290478, 619285.1439643367 5809125.3644509865, 619285.0650823804 5809125.7948791385, 619285.3460088753 5809126.438833379, 619285.9428024183 5809127.22698268, 619286.4517134352 5809127.87646989, 619290.6636510323 5809132.916496474, 619290.8127531927 5809133.352457195, 619292.2900214188 5809135.459001346, 619292.741022588 5809135.674741011, 619294.719183319 5809134.061650548, 619294.8219683755 5809133.586293713, 619294.4020450021 5809133.029985481, 619293.5522626666 5809132.3267150065, 619287.6580382442 5809126.108112676, 619287.0073689152 5809125.659978522))</geometry>
+      </subArea>
+    </area>
+    <area>
+      <identifier>2036338</identifier>
+      <subArea>
+        <type>ALWAYS</type>
+        <geometry>POLYGON ((619360.494727022 5809146.165132468, 619357.7816461776 5809150.89425865, 619356.876686742 5809152.024510067, 619355.6596435544 5809153.072267518, 619354.7523169683 5809153.531373304, 619353.2982583805 5809153.928831705, 619352.5081095868 5809153.876328945, 619350.9626178019 5809153.289598169, 619348.0447848717 5809158.377341335, 619345.6021658469 5809162.670915135, 619345.6117112917 5809163.217260135, 619341.2454029234 5809165.477729523, 619360.3789933666 5809174.156793431, 619362.0959759037 5809170.148157667, 619364.0374758929 5809165.348556799, 619365.3749333251 5809162.878019109, 619366.2130380803 5809160.304334166, 619364.8572154358 5809159.603194615, 619363.6811712856 5809158.487203819, 619363.1631802806 5809157.723271119, 619362.888025538 5809156.941138518, 619362.713725452 5809155.549381123, 619362.8111974305 5809153.936566498, 619365.3336495456 5809148.609784269, 619360.494727022 5809146.165132468))</geometry>
+      </subArea>
+      <subArea>
+        <type>EMERGENCY</type>
+        <geometry>POLYGON ((619345.6117112917 5809163.217260135, 619341.2454029234 5809165.477729523, 619360.3789933666 5809174.156793431, 619362.0959759037 5809170.148157667, 619345.6021658469 5809162.670915135, 619345.6117112917 5809163.217260135))</geometry>
+      </subArea>
+    </area>
+    <area>
+      <identifier>2036286</identifier>
+      <subArea>
+        <type>ALWAYS</type>
+        <geometry>POLYGON ((619280.1715174877 5809188.319878253, 619275.4297196023 5809198.535371676, 619270.6879407458 5809208.750847808, 619277.844847303 5809211.814348944, 619279.0645653448 5809210.4331723135, 619280.3732688463 5809209.14517309, 619281.7181867622 5809208.244879087, 619283.1770957075 5809207.347351769, 619285.1943674592 5809206.941220589, 619287.0827467939 5809207.146333371, 619288.4429059702 5809207.497908087, 619289.395122191 5809205.8599405885, 619292.0438315372 5809201.054761364, 619290.6368024484 5809199.814621046, 619289.7085337071 5809198.586100758, 619288.9882076022 5809197.248854551, 619288.2928869859 5809195.821196824, 619288.0746716046 5809194.473382021, 619288.1276577355 5809192.290230177, 619288.363197996 5809191.044445574, 619286.0626203389 5809189.964654112, 619283.6691931813 5809188.950873895, 619283.3814993594 5809189.553629013, 619283.169972225 5809189.618312844, 619280.1715174877 5809188.319878253))</geometry>
+      </subArea>
+    </area>
+  </areas>
+</roadData>

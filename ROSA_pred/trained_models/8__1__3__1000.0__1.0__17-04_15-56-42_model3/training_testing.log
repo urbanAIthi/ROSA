@@ -1,0 +1,19 @@
+2025-04-17 15:56:59,746 - INFO - Creating model
+2025-04-17 15:57:00,057 - INFO - Total trainable parameters: 3576846
+2025-04-17 15:57:00,058 - INFO - Starting the training
+2025-04-17 23:22:12,376 - INFO - Finished training
+2025-04-17 23:22:15,659 - INFO - Loading model
+2025-04-17 23:22:15,692 - INFO - Starting the testing
+2025-04-17 23:22:25,755 - INFO - Finished testing
+2025-04-17 23:22:28,593 - INFO - Loading model
+2025-04-17 23:22:28,981 - INFO - Starting the testing
+2025-04-17 23:22:45,831 - INFO - Finished testing
+2025-04-17 23:22:49,137 - INFO - Loading model
+2025-04-17 23:22:49,512 - INFO - Starting the testing
+2025-04-17 23:23:12,222 - INFO - Finished testing
+2025-04-17 23:23:15,017 - INFO - Loading model
+2025-04-17 23:23:15,653 - INFO - Starting the testing
+2025-04-17 23:23:44,532 - INFO - Finished testing
+2025-04-17 23:23:48,292 - INFO - Loading model
+2025-04-17 23:23:48,668 - INFO - Starting the testing
+2025-04-17 23:24:23,885 - INFO - Finished testing
