@@ -117,10 +117,7 @@ If you use this code in your research, please cite our paper:
   booktitle={2025 IEEE International Conference on Intelligent Transportation Systems (ITSC)}, 
   title={ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic}, 
   year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+  doi={10.1109/ITSC60802.2025.11423540}
 }
 ```
 
